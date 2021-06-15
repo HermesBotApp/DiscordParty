@@ -1,0 +1,5 @@
+name: DiscordParty
+main: fr.blueberry.studio.hermes.plugins.discordParty.DiscordParty
+version: 1.0
+author: Grimille
+description: Create a party and get notified when it's time to play !
